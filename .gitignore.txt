@@ -1,0 +1,15 @@
+# ignore data
+data/raw/
+data/external/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+
+# R
+.Rhistory
+.RData
+
+# system
+.DS_Store
