@@ -1,0 +1,37 @@
+habitat_1,count,unique,empty,filled,min,max,min_length,max_length,mean_length,habitat codes_habitat
+109,13969,3746,0,13969,Abrus fruticulosus,Zornia setosa subsp. obovata,9,53,22.3602262151908,Forest - Subtropical-tropical moist montane
+105,12380,3919,0,12380,Abrus canescens,Zornia pratensis subsp. pratensis,9,53,21.8282714054927,Forest - Subtropical-tropical dry
+307,8738,3572,0,8738,Abrus fruticulosus,Zygotritonia nyassana,9,53,22.0105287251087,Shrubland - Subtropical-tropical high altitude
+201,15227,4962,0,15227,Abildgaardia hygrophila,Zornia pratensis subsp. pratensis,9,53,22.2331385039732,Savanna - Dry
+1401,6380,3301,0,6380,Abrus canescens,Zygotritonia nyassana,9,54,22.1114420062696,Arable land
+1403,4374,2639,0,4374,Abrus fruticulosus,Zygotritonia nyassana,9,53,21.7091906721536,Plantations
+202,1488,1101,0,1488,Abrus fruticulosus,Zornia songeensis,9,53,21.7177419354839,Savanna - Moist
+1405,2502,1361,0,2502,Abildgaardia triflora,Zornia glochidiata,10,48,23.1179056754596,Urban Areas
+106,1797,1148,0,1797,Abrus fruticulosus,Ziziphus mucronata subsp. mucronata,9,51,22.4023372287145,Forest - Subtropical-tropical moist lowland
+1402,587,464,0,587,Abutilon longicuspe,Zenkerella capparidacea subsp. capparidacea,12,48,22.6592844974446,Pastureland
+1404,1650,1203,0,1650,Abrus fruticulosus,Zornia reptans,10,49,22.6478787878788,Rural Gardens
+405,377,315,0,377,Abrus precatorius,Zaleya pentandra,10,46,20.9708222811671,Grassland - Subtropical-tropical dry
+505,1610,1093,0,1610,Abrus fruticulosus,Zornia reptans,10,53,21.4751552795031,Wetlands (inland) - Permanent freshwater lakes
+600,243,167,0,243,Acalypha fruticosa,Zannichellia palustris,12,47,22.1111111111111,Rocky Areas
+407,682,538,0,682,Abutilon mauritianum,Xysmalobium undulatum,9,53,22.2624633431085,Grassland - Subtropical-tropical high altitude
+908,147,97,0,147,Acridocarpus zanzibaricus,Vepris sansibarensis,12,45,24.0680272108844,Marine - Coral Reefs
+306,395,285,0,395,Acacia hockii,Zanthoxylum chalybeum var. chalybeum,10,48,23.9493670886076,Shrubland - Subtropical-tropical moist
+507,167,145,0,167,Abutilon hirtum,Ziziphus abyssinica,13,46,21.9281437125749,Wetlands (inland) - Permanent freshwater marshes/pools (under 8 ha)
+900,53,48,0,53,Acacia adenocalyx,Zanthoxylum chalybeum var. chalybeum,12,45,20.7358490566038,Marine - Neritic
+305,617,506,0,617,Acacia adenocalyx,Zehneria scabra,10,45,21.5364667747164,Shrubland - Subtropical-tropical dry
+909,139,101,0,139,Abutilon mauritianum,Warburgia stuhlmannii,9,48,24.2374100719424,Marine - Seagrass (submerged)
+108,35,34,0,35,Acridocarpus zanzibaricus,Voacanga thouarsii,13,41,21.9428571428571,Forest - Subtropical-tropical swamp
+1200,124,108,0,124,Acacia goetzei subsp. microphylla,Xyris parvula,13,53,22.7338709677419,Marine - Intertidal
+511,17,17,0,17,Cynorkis pleistadenia,Veronica glandulosa,13,40,21.4117647058824,Wetlands (inland) - Alpine wetlands
+500,224,204,0,224,Acacia hockii,Zaleya pentandra,12,50,22.7098214285714,Wetlands (inland)
+506,26,25,0,26,Acacia circummarginata,Zornia glochidiata,13,41,22.0384615384615,Wetlands (inland) - Seasonal/intermittent freshwater lakes (over 8 ha)
+107,78,68,0,78,Acacia nilotica subsp. leiocarpa,Vitex strickeri,12,42,22.9102564102564,Forest - Subtropical-tropical mangrove vegetation
+1206,7,7,0,7,Capparis sepiaria var. subglabra,Turraea mombassana subsp. mombassana,17,36,28.5714285714286,Marine - Tidepools
+,8,7,0,8,Azima tetracantha,Premna chrysoclada,17,26,20,Water
+515,1,1,0,1,Hyphaene coriacea,Hyphaene coriacea,17,17,17,Wetlands (inland) - Seasonal/intermittent saline brackish or alkaline lakes and flats
+802,10,9,0,10,Adiantum capillus-veneris,Turraea holstii,15,31,20.8,Desert - Temperate
+803,2,2,0,2,Adenia globosa subsp. curvata,Lobelia deckenii subsp. burttii,29,31,30,Desert - Cold
+1207,6,6,0,6,Coptosperma littorale,Salacia elegans,15,23,18.8333333333333,Marine - Mangroves submerged Roots
+100,12,10,0,12,Acacia abyssinica subsp. calophylla,Solanum terminale,15,35,20.25,Forest
+502,1,1,0,1,Aeschynomene nematopoda,Aeschynomene nematopoda,23,23,23,Wetlands (inland) - Seasonal/intermittent/irregular rivers/streams/creeks
+406,1,1,0,1,Pavetta sansibarica subsp. sansibarica,Pavetta sansibarica subsp. sansibarica,38,38,38,Grassland - Subtropical-tropical seasonally wet or flooded
