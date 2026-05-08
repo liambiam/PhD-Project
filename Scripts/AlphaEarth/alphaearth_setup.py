@@ -57,7 +57,7 @@ try:
 except Exception:
     print("    [→] Authentication required. Opening browser...")
     print("    Follow the prompts to authenticate with your Google account.")
-    ee.Authenticate(project="phdproject-494613")
+    ee.Authenticate()
     print("\n    Now you need to set up a Cloud Project.")
     print("    Go to: https://console.cloud.google.com/projectcreate")
     print("    Create a new project, then enable the Earth Engine API.")
