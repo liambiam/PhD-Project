@@ -42,10 +42,10 @@ warnings.filterwarnings('ignore')
 # CONFIGURATION
 # ============================================================
 
-INPUT_FILE = r"C:\Users\liams\Documents\PhD-Project\Data\RAINBIO\tanzania_points.csv"
-OUTPUT_DIR = r"C:\Users\liams\Documents\PhD-Project\Data\RAINBIO\tanzania_diversity_maps"
+INPUT_FILE = r"C:\Users\liams\Documents\PhD-Project Data\RAINBIO\tanzania_points.csv"
+OUTPUT_DIR = r"C:\Users\liams\Documents\PhD-Project Data\RAINBIO\tanzania_diversity_maps"
 
-HEX_RESOLUTION = 4         # H3 resolution: 4 ≈ 1770 km² hex (~42km edge)
+HEX_RESOLUTION = 5         # H3 resolution: 4 ≈ 1770 km² hex (~42km edge)
                            # 5 ≈ 252 km² hex (~16km edge) — finer, slower
                            # 3 ≈ 12,393 km² hex — coarser, faster
 RELIABILITY_THRESHOLD = 5  # Min records per species for SDM reliability
@@ -241,7 +241,7 @@ tanzania.boundary.plot(ax=ax, color="black", linewidth=1.2, zorder=3)
 hex_gdf.plot(
     ax=ax,
     column="n_species",
-    cmap="YlGnBu",
+    cmap="viridis",
     edgecolor="white",
     linewidth=0.2,
     legend=True,
