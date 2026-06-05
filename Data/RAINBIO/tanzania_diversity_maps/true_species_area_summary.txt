@@ -1,0 +1,27 @@
+Tanzania — True Species-Area Relationship
+==================================================
+
+Design:
+  Nested H3 hexes at multiple resolutions, each
+  representing a different sampling unit size. Mean
+  species count per hex computed at each resolution.
+
+Resolutions used    : [3, 4, 5, 6, 7, 8]
+Min records per hex : 3
+Hexes per resolution: 200 (or all avail)
+
+Curve data:
+ resolution     area_km2  mean_species  median_species  lower    upper  n_hexes_used  n_hexes_available
+          8     0.830997        13.280             6.0  3.000   57.175           200               4309
+          7     5.814126        15.050             7.0  2.000   82.025           200               3393
+          6    40.718866        24.960             8.0  2.975  151.075           200               2249
+          5   285.061071        47.265            11.0  2.975  293.150           200               1151
+          4  1991.962839       128.700            34.5  3.000  826.150           200                385
+          3 13942.843913       464.250           308.5  8.975 1827.775            80                 80
+
+Power law fit S = c × A^z:
+  z (slope)         : 0.365
+  c (intercept)     : 8.91
+  R² of log-log fit : 0.924
+  Tropical norm     : 0.20 – 0.35
+  Interpretation    : within typical published range for tropical floras

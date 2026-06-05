@@ -44,8 +44,8 @@ warnings.filterwarnings('ignore')
 # ============================================================
 
 PROJECT_ID    = "phdproject-494613"   # <-- set your GEE project
-RAINBIO_CSV   = "C:/Users/liams/Documents/PhD-Project/Data/RAINBIO/tanzania_points.csv"  # <-- your filtered RAINBIO data
-OUTPUT_DIR    = "alphaearth_outputs"
+RAINBIO_CSV   = "C:/Users/liams/Documents/PhD-Project Data/RAINBIO/tanzania_points.csv"  # <-- your filtered RAINBIO data
+OUTPUT_DIR    = "C:/Users/liams/Documents/PhD-Project Data/RAINBIO/alphaearth_outputs"
 
 YEAR          = 2024     # AlphaEarth annual layer to use
 N_SAMPLE_PTS  = 5000     # Number of points to sample for clustering

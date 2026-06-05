@@ -43,7 +43,11 @@ warnings.filterwarnings('ignore')
 # ============================================================
 
 INPUT_FILE = r"C:\Users\liams\Documents\PhD-Project Data\RAINBIO\tanzania_points.csv"
+<<<<<<< HEAD
 OUTPUT_DIR = r"C:\Users\liams\Documents\PhD-Project Data\RAINBIO\tanzania_diversity_maps"
+=======
+OUTPUT_DIR = r"C:\Users\liams\Documents\PhD-Project Data\RAINBIO\tanzania_diversity_maps2"
+>>>>>>> 42137d48f58ef2a93d4f8a4018632770f61bda20
 
 HEX_RESOLUTION = 5         # H3 resolution: 4 ≈ 1770 km² hex (~42km edge)
                            # 5 ≈ 252 km² hex (~16km edge) — finer, slower
