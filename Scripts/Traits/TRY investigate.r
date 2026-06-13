@@ -7,17 +7,12 @@ path <- "C:/Users/liams/Documents/PhD-Project Data/TRY/SLA, PH, SM/50190.txt"
 cols <- names(read_tsv(path, locale = locale(encoding = "latin1"),
                        n_max = 0, show_col_types = FALSE))
 print(cols)
-print(head(cols, 20))
 
-s <- read_tsv(path, locale = locale(encoding = "latin1"),
-              n_max = 50000, show_col_types = FALSE)
-
-# unique standardised species names in the sample
-s |>
-  filter(!is.na(TraitID)) |>          # trait rows only
-  distinct(AccSpeciesName) |>
-  arrange(AccSpeciesName) |>
-  print(n = 100)
+# --- read first 200,000 rows (like nrows=200_000) ---
+s <- read_tsv(path,
+              locale = locale(encoding = "latin1"),
+              n_max  = 1000000,
+              show_col_types = FALSE)
 
 # --- TraitName value counts, including NAs (like value_counts(dropna=False)) ---
 s |>
